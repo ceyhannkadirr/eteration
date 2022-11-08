@@ -1,0 +1,2 @@
+composiv_tryouts
+-DCATKIN_DEVEL_PREFIX=/home/kadir/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kadir/Desktop/catkin_ws/install -G Unix Makefiles
